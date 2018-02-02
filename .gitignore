@@ -1,0 +1,11 @@
+#idea
+out/
+target/
+.idea/
+.DS_Store
+build/
+classes/
+*.iml
+# log
+
+*.log
